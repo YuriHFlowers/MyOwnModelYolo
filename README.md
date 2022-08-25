@@ -11,7 +11,7 @@ This project is implemented based on a Computer Vision model. We used a pretrain
 * `Data`: Input Data, Output Data, Model Weights and Results
 * `Utils`: Utility scripts used by main scripts  
 
-![Structure](Images/structure)
+![Structure](Images/structure.jpg)
 
 ### Installation
 #### step 1/ Clone the repo
@@ -38,7 +38,7 @@ Then, you can train the model running `python Train_YOLO.py`.
 Run the script `python Detector.py`. The results will be stored in the `TrainYourOwnYOLO/Data/Source_Images/Test_Image_Detection_Results` folder.  
    
 ### Result View
-![crosswalk](Images/crosswalk.png)
+![crosswalk](Images/crosswalk.jpg)
 
 ### Colaborators
 Yuri Hernández Flores  
