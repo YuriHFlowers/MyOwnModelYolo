@@ -38,8 +38,13 @@ Then, you can train the model running `python Train_YOLO.py`.
 Run the script `python Detector.py`. The results will be stored in the `TrainYourOwnYOLO/Data/Source_Images/Test_Image_Detection_Results` folder.  
    
 ### Result View
-![crosswalk](Images/crosswalk.jpg)
+![crosswalk](Images/crosswalk.jpg)  
+  
+![crosswalk](Images/MP_TW_P003337_crosswalk.jpg)
 
+![video](Images/IMG_6400_crosswalk.mp4)  
+  
+  
 ### Colaborators
 Yuri Hernández Flores  
 Rana Abuthaher  
