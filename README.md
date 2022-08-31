@@ -52,7 +52,7 @@ Let's detect the two crosswalks in this image:
 
 ![video](Images/IMG_6395_crosswalk.mp4)  
 
-
+![crosswalk](Images/MP_TW_P003683_crosswalk.jpg)  
 
 
 ### Colaborators
