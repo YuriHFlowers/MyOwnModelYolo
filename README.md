@@ -36,15 +36,25 @@ Then, you can train the model running `python Train_YOLO.py`.
 
 3. Detect crosswalk in your testing images:
 Run the script `python Detector.py`. The results will be stored in the `TrainYourOwnYOLO/Data/Source_Images/Test_Image_Detection_Results` folder.  
-   
+
+Let's detect the two crosswalks in this image:  
+![crosswalk](Images/MP_TW_P003742.jpg)   
+
 ### Result View
+
+![crosswalk](Images/MP_TW_P003742_crosswalk.jpg)  
+
 ![crosswalk](Images/crosswalk.jpg)  
   
 ![crosswalk](Images/MP_TW_P003337_crosswalk.jpg)
 
-![video](Images/IMG_6400_crosswalk.mp4)  
-  
-  
+![crosswalk](Images/003100_crosswalk.jpg)  
+
+![video](Images/IMG_6395_crosswalk.mp4)  
+
+![crosswalk](Images/MP_TW_P003683_crosswalk.jpg)  
+
+
 ### Colaborators
 Yuri Hernández Flores  
 Rana Abuthaher  
