@@ -42,7 +42,9 @@ Run the script `python Detector.py`. The results will be stored in the `TrainYou
   
 ![crosswalk](Images/MP_TW_P003337_crosswalk.jpg)
 
-![video](Images/IMG_6400_crosswalk.mp4)  
+![crosswalk](Images/003100_crosswalk.jpg)  
+
+![video](Images/IMG_6395_crosswalk.mp4)  
   
   
 ### Colaborators
